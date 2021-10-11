@@ -1,11 +1,4 @@
-require(3747589551)()
--- nebula's ezconvert
---[[
-PUT YOUR SCRIPTS BELOW HERE VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV	
-]]
-
--- GG  --
-print("Require()")
+-- rbx lua --
 
 local TrollingGuiOpener = Instance.new("ScreenGui")
 local Menu = Instance.new("Frame")
